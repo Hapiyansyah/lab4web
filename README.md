@@ -2,11 +2,11 @@
 
 ## Membuat box element
 
-`[P1](lab4web/foto/P1.png)
+![P1](lab4web/foto/P1.png)
 
 lalu menambahkan element baru pada gambar dibawah ini:
 
-`[P2](lab4web/foto/P2.png)
+![P2](lab4web/foto/P2.png)
 
 ## Membuat layout sederhana
 ### membuat navigasi 
@@ -83,6 +83,6 @@ nav a:hover {
   background-color: #2b83ea;
 }
 ```
-`[P3](lab4web/foto/P3.png)
+![P3](lab4web/foto/P3.png)
 
 
