@@ -354,6 +354,8 @@ kemudian tambahkan css
 ## Pertanyaan dan Tugas
 1. Tambahkan Layout untuk menu About => buat single layout yang berisi deskripsi, portfolio, dll.
 
+![P10](lab4web/foto/P10.png)
+
 2. Tambahkan layout untuk menu Contact => yang berisi form isian: nama, email, message, dll.
 
 ![P9](lab4web/foto/P9.png)
